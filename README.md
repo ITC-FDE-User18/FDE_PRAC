@@ -1,1 +1,1 @@
-Read Sample File Data
+This is a basic of git commands
